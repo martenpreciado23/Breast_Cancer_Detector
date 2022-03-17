@@ -19,8 +19,9 @@ Standard Deviation: 1.97 %
 
 Confusion Matrix Heat map Heatmap:
 
-![c6807ddb-c4dc-4e8b-8095-7d258f53cffa](https://user-images.githubusercontent.com/79435399/158845771-e2e16d5a-5107-466d-bd29-e6ba6df91853.png)
+![5134a6cc-b824-40ee-b5bd-ba0ba47e3445](https://user-images.githubusercontent.com/79435399/158846322-1b816b87-9201-4004-a6a0-11a331af6fb9.png)
 
 Normalized Confusion Matrix Heat map Heatmap:
 
-![e589e14b-d081-44d9-80f0-d6e6413674f0](https://user-images.githubusercontent.com/79435399/158845912-0199ec2e-5652-403f-8eb1-53d7dcae2d88.png)
+![1a03b6a7-4512-4ad4-b86d-85d1d0956fcf](https://user-images.githubusercontent.com/79435399/158846382-39bf110e-b770-4013-95f2-21addae2076f.png)
+
