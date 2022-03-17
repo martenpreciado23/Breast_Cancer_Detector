@@ -1,7 +1,7 @@
 # Breast_Cancer_Detector
 Breast cancer detector using logistic regression
 
-In this project I was able to classify the patients tumors so we can know if they are malignant or benign by using these parameters:
+In this project I was able to classify patients tumors so we can predict if they are malignant or benign by using these parameters on the dataset:
 
 ```
 ['Clump Thickness', 'Uniformity of Cell Size',
