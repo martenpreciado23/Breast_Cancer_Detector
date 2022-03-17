@@ -13,5 +13,6 @@ In this project I was able to classify the patients tumors so we can know if the
 The results were:
 
 ```
-
+Accuracy: 96.70 %
+Standard Deviation: 1.97 %
 ```
